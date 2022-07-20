@@ -1,4 +1,4 @@
-package HVG;
+package main;
 
 import javax.swing.*;
 
